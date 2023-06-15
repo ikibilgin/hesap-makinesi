@@ -12,7 +12,7 @@ Kullanım:
 
 Örnek kullanım:
 Hesaplamak istediğiniz ifadeyi girin: 20 - 10 * 5
-Sonuç: 10
+Sonuç: -30
 
 Dikkat:
 - İfadelerinizi doğru bir şekilde girin. Öncelikli işlem sırası ve parantezleri dikkate alır.
